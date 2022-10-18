@@ -1,2 +1,0 @@
-# Atm-Project
-ATM functionalities
